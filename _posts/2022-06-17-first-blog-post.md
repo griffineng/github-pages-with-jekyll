@@ -1,3 +1,8 @@
+---
+title: "Welcome to Griffin's blog"
+date: 2022-06-17
+---
+
 ## Griffin's first blog post 
 ### 2022-06-17
 
